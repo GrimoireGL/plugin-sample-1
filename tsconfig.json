@@ -5,8 +5,7 @@
     "outDir": "./lib",
     "declaration": true,
     "moduleResolution": "node",
-    "declarationDir": "./ref",
-    "strict": true
+    "declarationDir": "./ref"
   },
   "filesGlob": [
     "./src/**/*.ts"
